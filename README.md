@@ -1,1 +1,1 @@
-# RopeSimulation
+# Rope simulation based on verlet integration
